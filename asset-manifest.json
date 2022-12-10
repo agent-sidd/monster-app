@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monster-app/static/css/main.2221f414.css",
+    "main.js": "/monster-app/static/js/main.c1f8cbfb.js",
+    "index.html": "/monster-app/index.html",
+    "main.2221f414.css.map": "/monster-app/static/css/main.2221f414.css.map",
+    "main.c1f8cbfb.js.map": "/monster-app/static/js/main.c1f8cbfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2221f414.css",
+    "static/js/main.c1f8cbfb.js"
+  ]
+}
